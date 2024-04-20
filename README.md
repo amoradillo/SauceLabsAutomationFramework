@@ -8,6 +8,7 @@ Automation Flow covers the following processes:
 2. Product Search
 3. Add to Car Functionality
 4. Checkout Process
+5. Logout Functionality
 
 # Frameworks and Tools Used:
    * Selenium WebDriver - a free (open-source) automated testing framework used to validate web applications across different browsers and platforms.
