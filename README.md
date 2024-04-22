@@ -5,8 +5,7 @@ This Maven Project employs the Page Object Model design pattern, utilizing Selen
 # Functionality 
 Automation Flow covers the following processes: 
 1. Login Functionality
-2. Product Search
-3. Add to Car Functionality
+2. Add to Cart Functionality
 4. Checkout Process
 5. Logout Functionality
 
