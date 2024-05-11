@@ -1,0 +1,11 @@
+[
+  {
+    "email": "standard_user",
+    "password": "secret_sauce"
+  },
+  {
+    "email": "performance_glitch_user",
+    "password": "secret_sauce"
+  }
+]
+
